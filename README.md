@@ -7,8 +7,10 @@ Colours and proportions tries to follow as much as possible the [**brand rules**
 
 ## Example
 
-![Presentation Science(Page 1)](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example-0.png)
-![Presentation Science(Page 3)](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example-2.png)
+The following are images extracted from the compiled example you can find [**here**](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example.pdf)
+
+![Presentation Science(Page 1)](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example-0.jpg)
+![Presentation Science(Page 3)](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example-2.jpg)
 
 ## Usage
 The easiest way is that of cloning the repository
@@ -16,3 +18,11 @@ The easiest way is that of cloning the repository
     git clone https://github.com/nitrogl/strathbeamer.git
 
 and modify the .tex sample file (of course, rename it as you need).
+
+If you are not starting a presentation from scratch, however, you can just copy the style file along with its directory `strathclyde`
+
++ strathclyde.sty
++ strathclyde/
+
+to the base directory of your project. Enjoy!
+
