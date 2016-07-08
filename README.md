@@ -9,7 +9,10 @@ Colours and proportions tries to follow as much as possible the [**brand rules**
 
 The following are images extracted from the compiled example you can find [**here**](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example.pdf)
 
+Page 1 for the presentation for the Faculty of Science
 ![Presentation Science(Page 1)](https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example-0.jpg)
+
+Page 2 for the presentation for the Faculty of Science
 ![Presentation Science(Page 3)](https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example-2.jpg)
 
 ## Usage
@@ -24,5 +27,8 @@ If you are not starting a presentation from scratch, however, you can just copy 
 + strathclyde.sty
 + strathclyde/
 
-to the base directory of your project. Enjoy!
+to the base directory of your project.
+Remember to include the package just below `\documentclass`, like you can see in the sample .tex file.
+
+Further customisation is possible through few commands/rules.
 
