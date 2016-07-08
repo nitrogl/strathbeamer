@@ -9,8 +9,8 @@ Colours and proportions tries to follow as much as possible the [**brand rules**
 
 The following are images extracted from the compiled example you can find [**here**](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example.pdf)
 
-![Presentation Science(Page 1)](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example-0.jpg)
-![Presentation Science(Page 3)](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example-2.jpg)
+![Presentation Science(Page 1)](https://raw.githubusercontent.com/nitrogl/master/strathbeamer/examples/strath-example-0.jpg)
+![Presentation Science(Page 3)](https://raw.githubusercontent.com/nitrogl/master/strathbeamer/examples/strath-example-2.jpg)
 
 ## Usage
 The easiest way is that of cloning the repository
