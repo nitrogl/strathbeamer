@@ -29,6 +29,7 @@ If you are not starting a presentation from scratch, however, you can just copy 
 
 to the base directory of your project.
 Remember to include the package just below `\documentclass`, like you can see in the sample .tex file.
+
     \usepackage{strathclyde}
 
 Further customisation is possible through few commands/rules.
