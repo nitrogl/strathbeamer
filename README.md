@@ -3,7 +3,7 @@ Strathclyde University LaTeX beamer template
 
 Unofficial LaTeX beamer style for outstanding and professional presentations.
 
-Colours and proportions tries to follow as much as possible the [**brand rules**](http://www.strath.ac.uk/brand/) publicly available at the link http://www.strath.ac.uk/brand/
+Colours and proportions try to follow as much as possible the [**brand rules**](http://www.strath.ac.uk/brand/) publicly available at the link http://www.strath.ac.uk/brand/
 
 ## Example
 
@@ -29,6 +29,7 @@ If you are not starting a presentation from scratch, however, you can just copy 
 
 to the base directory of your project.
 Remember to include the package just below `\documentclass`, like you can see in the sample .tex file.
+    \usepackage{strathclyde}
 
 Further customisation is possible through few commands/rules.
 
