@@ -1,4 +1,4 @@
-# strathbeamer [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example.pdf)
+# strathbeamer [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example.pdf)
 Strathclyde University LaTeX beamer template
 
 Unofficial LaTeX beamer style for outstanding and professional presentations.
@@ -7,7 +7,7 @@ Colours and proportions try to follow as much as possible the [**brand rules**](
 
 ## Example
 
-The following are images extracted from the compiled example you can find [**here**](https://raw.githubusercontent.com/nitrogl/strathbeamer/examples/strath-example.pdf)
+The following are images extracted from the compiled example you can find [**here**](https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example.pdf)
 
 Page 1 for the presentation for the Faculty of Science
 ![Presentation Science(Page 1)](https://raw.githubusercontent.com/nitrogl/strathbeamer/master/examples/strath-example-0.jpg)
